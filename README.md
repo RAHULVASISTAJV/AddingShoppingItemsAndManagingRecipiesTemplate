@@ -1,7 +1,7 @@
 # Angular 
 AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. 
 
-# ActiveAndInActiveUsers
+# AddinShopingItemsAndManagingRecipiesTemplate
 
 You can add items to the list using this template and there will be a nav bar and also you can manage recipies using this it will minimize and maximize on click.
 
